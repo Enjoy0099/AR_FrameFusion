@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2827649963025279200}
   m_Layer: 0
   m_Name: Sci-fi Glasses
-  m_TagString: Untagged
+  m_TagString: sci_fi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146,7 +146,7 @@ GameObject:
   - component: {fileID: 1162399347333690529}
   m_Layer: 0
   m_Name: Sun Goggles
-  m_TagString: Untagged
+  m_TagString: sun
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 6463867630123644003}
   m_Layer: 0
   m_Name: Movie Goggles
-  m_TagString: Untagged
+  m_TagString: movie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

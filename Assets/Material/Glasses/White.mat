@@ -63,21 +63,21 @@ Material:
     - _DisortStrength: 1.26
     - _DistortionOnTexture: 0.78
     - _Metalic: 0.246
-    - _Metallic: 0.393
+    - _Metallic: 0.4
     - _NormalStrenght: 0.01
     - _NormalStrength: 0.01
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReflectionStrenght: 0.05
-    - _ReflectionStrength: 0.21
+    - _ReflectionStrength: 0
     - _RefractionStrenght: 1.15
     - _Smoothness: 1
     - _Strenght: 0.12
-    - _Tiling: 0.01
+    - _Tiling: 1000
     m_Colors:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _TintColor: {r: 0.45660377, g: 1, b: 0.96031433, a: 1}
+    - _TintColor: {r: 0, g: 1, b: 0.5522146, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &1748688521998277390
 MonoBehaviour:
